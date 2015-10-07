@@ -15,6 +15,6 @@ r.triangle(400, 50, 400, 400, 650, 50)
 
 r.ellipse(200, 500, 200, 300)
   .fill(0, 0, 255)
-  .stroke(false)
+  .stroke(255, 0, 0)
 
 r.draw();
